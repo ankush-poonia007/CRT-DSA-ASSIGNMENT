@@ -7,6 +7,9 @@ def count_digits(num):
         count += 1
     return count
 
-num = int ( input ( "Enter the a Number: "))
-digits = count_digits(num)
-print ( f"The number {num} have {digits} digits" )
+try:
+    num = int ( input ( "Enter the a Number: "))
+    digits = count_digits(num)
+    print ( f"The number {num} have {digits} digits" )
+except ValueError:
+    print ( "Please enter a valid integer.")
