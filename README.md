@@ -9,7 +9,7 @@
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)
 ![Assignment](https://img.shields.io/badge/Assignment%20Problems-34-FF6F00?style=for-the-badge)
-![Extra](https://img.shields.io/badge/Extra%20Practice-0-7C3AED?style=for-the-badge)
+![Extra](https://img.shields.io/badge/Extra%20Practice-6-7C3AED?style=for-the-badge)
 ![Topics](https://img.shields.io/badge/Topics%20Covered-2-00B4D8?style=for-the-badge)
 
 </div>
@@ -41,7 +41,7 @@ Strings     ░░░░░░░░░░░░░░░░░░░░░░  
 ## 💪 Extra Practice Progress
 
 ```
-Loops       ░░░░░░░░░░░░░░░░░░░░░░  🔜 Starting Wed 18 Mar  (0/18)
+Loops       ███████░░░░░░░░░░░░░░░  🔥 In Progress  (6/18)
 Patterns    ░░░░░░░░░░░░░░░░░░░░░░  ⏳ Upcoming
 Arrays      ░░░░░░░░░░░░░░░░░░░░░░  ⏳ Upcoming
 ```
@@ -61,7 +61,7 @@ CRT-DSA-ASSIGNMENT/
 ├── 📁 06_strings/               ⏳ Upcoming
 │
 ├── 📁 extra_practice/
-│   ├── 📁 loops/                🔜 Starting Wed 18 Mar
+│   ├── 📁 loops/                🔥 In Progress (6/18)
 │   ├── 📁 patterns/             ⏳ Upcoming
 │   └── 📁 arrays/               ⏳ Upcoming
 │
@@ -88,9 +88,9 @@ CRT-DSA-ASSIGNMENT/
 
 | Day | Date | Problems | Key Concept | Status |
 |-----|------|----------|-------------|--------|
-| **Wed** | Mar 18 | Fibonacci, Count Digits, Check Palindrome | Loop + two variables, while loop, reverse logic | 🔜 Today |
-| **Thu** | Mar 19 | Armstrong Number, All Armstrong 1–500, Perfect Number | Digits + power, nested logic, divisor sum | ⏳ |
-| **Fri** | Mar 20 | LCM, Multiplication Table 1–10, All Primes 1–n | HCF×LCM, nested loops, loop inside loop | ⏳ |
+| **Wed** | Mar 18 | Fibonacci, Count Digits, Check Palindrome | Loop + two variables, while loop, reverse logic | ✅ Done |
+| **Thu** | Mar 19 | Armstrong Number, All Armstrong 1–500, Perfect Number | Digits + power, nested logic, divisor sum | ✅ Done |
+| **Fri** | Mar 20 | LCM, Multiplication Table 1–10, All Primes 1–n | HCF×LCM, nested loops, loop inside loop | 🔜 Today |
 | **Sat** | Mar 21 | Sum of Series, Power without `**`, Check Neon Number | Float division, repeated multiply, digit concept | ⏳ |
 | **Sun** | Mar 22 | All Factors, Strong Number | Divisibility, factorial inside loop | ⏳ |
 | **Mon** | Mar 23 | Automorphic, Digit Sum Even, All Pairs with Sum, GCD of Array | String+math, digit manipulation, nested loops | ⏳ |
@@ -169,24 +169,32 @@ CRT-DSA-ASSIGNMENT/
 
 </details>
 
+<details>
+<summary><b>⏳ 05 — Arrays (Upcoming)</b></summary>
+<br/>
+
+> Problems will be updated once the topic is covered in class.
+
+</details>
+
 ---
 
 ## 💪 Extra Practice Breakdown
 
 <details>
-<summary><b>🔜 Loops — Extra Practice (0/18 Solved)</b></summary>
+<summary><b>🔥 Loops — Extra Practice (6/18 Solved)</b></summary>
 
 <br/>
 
 | # | File | Description | Day | Status |
 |---|------|-------------|-----|--------|
-| 01 | `01_fibonacci.py` | Print Fibonacci series up to n | Wed | ⏳ |
-| 02 | `02_count_digits.py` | Count digits in a number | Wed | ⏳ |
-| 03 | `03_palindrome.py` | Check palindrome number | Wed | ⏳ |
-| 04 | `04_armstrong_check.py` | Check Armstrong number | Thu | ⏳ |
-| 05 | `05_all_armstrong.py` | Print all Armstrong numbers 1–500 | Thu | ⏳ |
-| 06 | `06_perfect_number.py` | Check Perfect number | Thu | ⏳ |
-| 07 | `07_lcm.py` | Find LCM of two numbers | Fri | ⏳ |
+| 01 | `01_fibonacci.py` | Print Fibonacci series up to n | Wed | ✅ |
+| 02 | `02_palindrome.py` | Check palindrome number | Wed | ✅ |
+| 03 | `03_count_digits.py` | Count digits in a number | Wed | ✅ |
+| 04 | `04_armstrong_number.py` | Check Armstrong number | Thu | ✅ |
+| 05 | `05_all_armstrong.py` | Print all Armstrong numbers 1–500 | Thu | ✅ |
+| 06 | `06_perfect_number.py` | Check Perfect number | Thu | ✅ |
+| 07 | `07_lcm.py` | Find LCM of two numbers | Fri | 🔜 |
 | 08 | `08_multi_table_1_10.py` | Multiplication table of 1 to 10 | Fri | ⏳ |
 | 09 | `09_all_primes.py` | Print all prime numbers 1 to n | Fri | ⏳ |
 | 10 | `10_sum_series.py` | Sum of series 1 + 1/2 + 1/3 ... 1/n | Sat | ⏳ |
