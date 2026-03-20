@@ -41,7 +41,7 @@ Strings     ░░░░░░░░░░░░░░░░░░░░░░  
 ## 💪 Extra Practice Progress
 
 ```
-Loops       ███████░░░░░░░░░░░░░░░  🔥 In Progress  (6/18)
+Loops       ████████████░░░░░░░░░░  🔥 In Progress  (9/18)
 Patterns    ░░░░░░░░░░░░░░░░░░░░░░  ⏳ Upcoming
 Arrays      ░░░░░░░░░░░░░░░░░░░░░░  ⏳ Upcoming
 ```
@@ -61,7 +61,7 @@ CRT-DSA-ASSIGNMENT/
 ├── 📁 06_strings/               ⏳ Upcoming
 │
 ├── 📁 extra_practice/
-│   ├── 📁 loops/                🔥 In Progress (6/18)
+│   ├── 📁 loops/                🔥 In Progress (9/18)
 │   ├── 📁 patterns/             ⏳ Upcoming
 │   └── 📁 arrays/               ⏳ Upcoming
 │
@@ -70,32 +70,6 @@ CRT-DSA-ASSIGNMENT/
 
 ---
 
-## 📅 Assignment Log
-
-| Day | Date | Topic | Problems | Status |
-|-----|------|-------|----------|--------|
-| 01 | Week 1 | If-Else Basics | 14 | ✅ Completed |
-| 02 | Week 2 | Loops | 20 | ✅ Completed |
-| 03 | - | Patterns | - | ⏳ Upcoming |
-| 04 | - | Functions | - | ⏳ Upcoming |
-| 05 | - | Arrays | - | ⏳ Upcoming |
-
----
-
-## 🗓️ Extra Practice — Weekly Schedule
-
-> Self-driven problems beyond class assignments to build stronger logic.
-
-| Day | Date | Problems | Key Concept | Status |
-|-----|------|----------|-------------|--------|
-| **Wed** | Mar 18 | Fibonacci, Count Digits, Check Palindrome | Loop + two variables, while loop, reverse logic | ✅ Done |
-| **Thu** | Mar 19 | Armstrong Number, All Armstrong 1–500, Perfect Number | Digits + power, nested logic, divisor sum | ✅ Done |
-| **Fri** | Mar 20 | LCM, Multiplication Table 1–10, All Primes 1–n | HCF×LCM, nested loops, loop inside loop | 🔜 Today |
-| **Sat** | Mar 21 | Sum of Series, Power without `**`, Check Neon Number | Float division, repeated multiply, digit concept | ⏳ |
-| **Sun** | Mar 22 | All Factors, Strong Number | Divisibility, factorial inside loop | ⏳ |
-| **Mon** | Mar 23 | Automorphic, Digit Sum Even, All Pairs with Sum, GCD of Array | String+math, digit manipulation, nested loops | ⏳ |
-
----
 
 ## 🗂️ Assignment Breakdown
 
@@ -182,7 +156,7 @@ CRT-DSA-ASSIGNMENT/
 ## 💪 Extra Practice Breakdown
 
 <details>
-<summary><b>🔥 Loops — Extra Practice (6/18 Solved)</b></summary>
+<summary><b>🔥 Loops — Extra Practice (9/18 Solved)</b></summary>
 
 <br/>
 
