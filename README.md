@@ -41,7 +41,7 @@ Strings     ░░░░░░░░░░░░░░░░░░░░░░  
 ## 💪 Extra Practice Progress
 
 ```
-Loops       ████████████░░░░░░░░░░  🔥 In Progress  (9/18)
+Loops       ███████████████░░░░░░░  🔥 In Progress  (12/18)
 Patterns    ░░░░░░░░░░░░░░░░░░░░░░  ⏳ Upcoming
 Arrays      ░░░░░░░░░░░░░░░░░░░░░░  ⏳ Upcoming
 ```
@@ -161,20 +161,20 @@ CRT-DSA-ASSIGNMENT/
 <br/>
 
 | # | File | Description | Day | Status |
-|---|------|-------------|-----|--------|
+|---|------|-------------|-----|--|
 | 01 | `01_fibonacci.py` | Print Fibonacci series up to n | Wed | ✅ |
 | 02 | `02_palindrome.py` | Check palindrome number | Wed | ✅ |
 | 03 | `03_count_digits.py` | Count digits in a number | Wed | ✅ |
 | 04 | `04_armstrong_number.py` | Check Armstrong number | Thu | ✅ |
 | 05 | `05_all_armstrong.py` | Print all Armstrong numbers 1–500 | Thu | ✅ |
 | 06 | `06_perfect_number.py` | Check Perfect number | Thu | ✅ |
-| 07 | `07_lcm.py` | Find LCM of two numbers | Fri | 🔜 |
-| 08 | `08_multi_table_1_10.py` | Multiplication table of 1 to 10 | Fri | ⏳ |
-| 09 | `09_all_primes.py` | Print all prime numbers 1 to n | Fri | ⏳ |
-| 10 | `10_sum_series.py` | Sum of series 1 + 1/2 + 1/3 ... 1/n | Sat | ⏳ |
-| 11 | `11_power_no_operator.py` | Find power without `**` operator | Sat | ⏳ |
-| 12 | `12_neon_number.py` | Check Neon number | Sat | ⏳ |
-| 13 | `13_all_factors.py` | Print all factors of a number | Sun | ⏳ |
+| 07 | `07_lcm.py` | Find LCM of two numbers | Fri | ✅ |
+| 08 | `08_multi_table_1_10.py` | Multiplication table of 1 to 10 | Fri | ✅ |
+| 09 | `09_all_primes.py` | Print all prime numbers 1 to n | Fri | ✅ |
+| 10 | `10_sum_series.py` | Sum of series 1 + 1/2 + 1/3 ... 1/n | Sat | ✅ |
+| 11 | `11_power_no_operator.py` | Find power without `**` operator | Sat | ✅ |
+| 12 | `12_neon_number.py` | Check Neon number | Sat | ✅ |
+| 13 | `13_all_factors.py` | Print all factors of a number | Sun | 🔜 |
 | 14 | `14_strong_number.py` | Check Strong number | Sun | ⏳ |
 | 15 | `15_automorphic.py` | Check Automorphic number | Mon | ⏳ |
 | 16 | `16_digit_sum_even.py` | Numbers whose digit sum is even | Mon | ⏳ |
